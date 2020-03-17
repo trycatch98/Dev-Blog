@@ -1,0 +1,7 @@
+[submodule "themes/github-style"]
+	path = themes/github-style
+	url = https://github.com/trycatch98/github-style.git
+[submodule "public"]
+	path = public
+	url = git@github.com:trycatch98/trycatch98.github.io.git
+	branch = master
